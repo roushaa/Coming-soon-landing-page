@@ -7,9 +7,9 @@ Programming Languages Tutorial
 ________________________________
 ("کد بخون, کد بنویس");
 
-R=Read;
+R="Read";
 
-W=Write;
+W="Write";
 
 RWcode=("ReadCode, WriteCode");
 
